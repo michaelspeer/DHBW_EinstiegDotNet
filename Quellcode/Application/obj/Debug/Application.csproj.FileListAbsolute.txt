@@ -1,8 +1,0 @@
-d:\Users\genms.USERS\Desktop\DHBW\DHBWEinsteigDotNet_1\Application\bin\Debug\Application.exe.config
-d:\Users\genms.USERS\Desktop\DHBW\DHBWEinsteigDotNet_1\Application\bin\Debug\Application.exe
-d:\Users\genms.USERS\Desktop\DHBW\DHBWEinsteigDotNet_1\Application\bin\Debug\Application.pdb
-d:\Users\genms.USERS\Desktop\DHBW\DHBWEinsteigDotNet_1\Application\bin\Debug\Bibliothek.dll
-d:\Users\genms.USERS\Desktop\DHBW\DHBWEinsteigDotNet_1\Application\bin\Debug\Bibliothek.pdb
-d:\Users\genms.USERS\Desktop\DHBW\DHBWEinsteigDotNet_1\Application\obj\Debug\Application.csprojResolveAssemblyReference.cache
-d:\Users\genms.USERS\Desktop\DHBW\DHBWEinsteigDotNet_1\Application\obj\Debug\Application.exe
-d:\Users\genms.USERS\Desktop\DHBW\DHBWEinsteigDotNet_1\Application\obj\Debug\Application.pdb
