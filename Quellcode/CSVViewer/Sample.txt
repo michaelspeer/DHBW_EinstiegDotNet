@@ -1,6 +1,0 @@
-﻿Name;Vorname;Alter
-Meier;Klaus;28
-Müller;Heinz;50
-Meier-Heinz;Karl-Heinz;30
-Meierheinrich;Klaus-Daniel;78
-Bäcker;Wilhelm;101

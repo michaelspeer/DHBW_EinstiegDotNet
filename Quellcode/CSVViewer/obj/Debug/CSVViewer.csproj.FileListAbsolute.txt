@@ -1,7 +1,0 @@
-d:\Users\genms.USERS\Desktop\DHBW\DHBWEinsteigDotNet_1\CSVViewer\bin\Debug\CSVViewer.exe.config
-d:\Users\genms.USERS\Desktop\DHBW\DHBWEinsteigDotNet_1\CSVViewer\bin\Debug\CSVViewer.exe
-d:\Users\genms.USERS\Desktop\DHBW\DHBWEinsteigDotNet_1\CSVViewer\bin\Debug\CSVViewer.pdb
-d:\Users\genms.USERS\Desktop\DHBW\DHBWEinsteigDotNet_1\CSVViewer\obj\Debug\CSVViewer.csprojResolveAssemblyReference.cache
-d:\Users\genms.USERS\Desktop\DHBW\DHBWEinsteigDotNet_1\CSVViewer\obj\Debug\CSVViewer.exe
-d:\Users\genms.USERS\Desktop\DHBW\DHBWEinsteigDotNet_1\CSVViewer\obj\Debug\CSVViewer.pdb
-d:\Users\genms.USERS\Desktop\DHBW\DHBWEinsteigDotNet_1\CSVViewer\bin\Debug\Sample.txt
