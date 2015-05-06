@@ -1,5 +1,0 @@
-d:\Users\genms.USERS\Desktop\DHBW\DHBWEinsteigDotNet_1\Bibliothek\bin\Debug\Bibliothek.dll
-d:\Users\genms.USERS\Desktop\DHBW\DHBWEinsteigDotNet_1\Bibliothek\bin\Debug\Bibliothek.pdb
-d:\Users\genms.USERS\Desktop\DHBW\DHBWEinsteigDotNet_1\Bibliothek\obj\Debug\Bibliothek.csprojResolveAssemblyReference.cache
-d:\Users\genms.USERS\Desktop\DHBW\DHBWEinsteigDotNet_1\Bibliothek\obj\Debug\Bibliothek.dll
-d:\Users\genms.USERS\Desktop\DHBW\DHBWEinsteigDotNet_1\Bibliothek\obj\Debug\Bibliothek.pdb
