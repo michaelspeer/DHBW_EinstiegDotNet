@@ -1,2 +1,0 @@
-d:\Users\genms.USERS\Desktop\Vorlesung DHBW\2015\DHBWEinstiegDotNet\BeispieleVorlesung\obj\Debug\DHBWEinsteigDotNet_1.exe
-d:\Users\genms.USERS\Desktop\Vorlesung DHBW\2015\DHBWEinstiegDotNet\BeispieleVorlesung\obj\Debug\DHBWEinsteigDotNet_1.pdb

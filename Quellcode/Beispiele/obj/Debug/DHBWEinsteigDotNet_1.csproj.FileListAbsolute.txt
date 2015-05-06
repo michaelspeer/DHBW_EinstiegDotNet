@@ -1,8 +1,0 @@
-S:\Workshops\DHBWEinsteigDotNet_1\DHBWEinsteigDotNet_1\obj\Debug\DHBWEinsteigDotNet_1.csprojResolveAssemblyReference.cache
-d:\Users\genms.USERS\Desktop\DHBW\DHBWEinsteigDotNet_1\DHBWEinsteigDotNet_1\obj\Debug\DHBWEinsteigDotNet_1.csprojResolveAssemblyReference.cache
-d:\Users\genms.USERS\Desktop\DHBW\DHBWEinsteigDotNet_1\DHBWEinsteigDotNet_1\bin\Debug\DHBWEinsteigDotNet_1.exe
-d:\Users\genms.USERS\Desktop\DHBW\DHBWEinsteigDotNet_1\DHBWEinsteigDotNet_1\bin\Debug\DHBWEinsteigDotNet_1.pdb
-d:\Users\genms.USERS\Desktop\DHBW\DHBWEinsteigDotNet_1\DHBWEinsteigDotNet_1\obj\Debug\DHBWEinsteigDotNet_1.exe
-d:\Users\genms.USERS\Desktop\DHBW\DHBWEinsteigDotNet_1\DHBWEinsteigDotNet_1\obj\Debug\DHBWEinsteigDotNet_1.pdb
-U:\Dokumente\Vorlesung DHBW\2015\DHBWEinsteigDotNet_1\DHBWEinsteigDotNet_1\obj\Debug\DHBWEinsteigDotNet_1.exe
-U:\Dokumente\Vorlesung DHBW\2015\DHBWEinsteigDotNet_1\DHBWEinsteigDotNet_1\obj\Debug\DHBWEinsteigDotNet_1.pdb
