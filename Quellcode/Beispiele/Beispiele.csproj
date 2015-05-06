@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9420C5A1-A16F-4F9C-8DD7-19A4AF013401}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DHBW.EinstiegDotNet.Beispiele</RootNamespace>
+    <AssemblyName>Beispiele</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AnonymeMethoden\1_Beispiel.cs" />
+    <Compile Include="AnonymeMethoden\2_AnonymeMethodenMitParametern.cs" />
+    <Compile Include="AnonymeMethoden\3_AnonymeMethodenMitRückgabewerten.cs" />
+    <Compile Include="AnonymeMethoden\4_LambdaAusdrücke.cs" />
+    <Compile Include="AnonymeMethoden\5_LambdaAusdrückeAlsFunktion.cs" />
+    <Compile Include="AnonymeMethoden\6_AnonymeMethodenAlsParameter.cs" />
+    <Compile Include="Aufruf_von_Properties.cs" />
+    <Compile Include="Delegaten\1_Beispiel.cs" />
+    <Compile Include="Delegaten\2_Logging.cs" />
+    <Compile Include="Delegaten\3_AnonymeDelegaten.cs" />
+    <Compile Include="Delegaten\4_AnonymeDelegatenImEinsatz.cs" />
+    <Compile Include="Delegaten\5_Ereignisse.cs" />
+    <Compile Include="Delegaten\6_Eventhandler.cs" />
+    <Compile Include="Delegaten\7_EventsMitAnonymenDelegaten.cs" />
+    <Compile Include="Enumerationen\1_Beispiel.cs" />
+    <Compile Include="Enumerationen\2_Zuweisung_zu_Zahl.cs" />
+    <Compile Include="Generische_Typen\Garage.cs" />
+    <Compile Include="Linq\1_Syntax.cs" />
+    <Compile Include="Linq\2_Methodenschreibweise.cs" />
+    <Compile Include="Linq\3_Query.cs" />
+    <Compile Include="Linq\4_Manifestierung.cs" />
+    <Compile Include="Linq\Person.cs" />
+    <Compile Include="Linq\Personenliste.cs" />
+    <Compile Include="Attribute\1_Syntax.cs" />
+    <Compile Include="Schnittstellen\1_Beispiel.cs" />
+    <Compile Include="Schnittstellen\2_Schnittstellen_und_Vererbung.cs" />
+    <Compile Include="Schnittstellen\3_Interfacevererbung.cs" />
+    <Compile Include="Schnittstellen\4_Vielfachvererbung.cs" />
+    <Compile Include="Schnittstellen\5_Implementierung.cs" />
+    <Compile Include="Schnittstellen\6_Werkstatt.cs" />
+    <Compile Include="Signaturen\1_Beispiel.cs" />
+    <Compile Include="Signaturen\2_Überladungen.cs" />
+    <Compile Include="Signaturen\3_Überladene_Methoden.cs" />
+    <Compile Include="Signaturen\4_Konstruktoren.cs" />
+    <Compile Include="Syntax\AnonymeTypen.cs" />
+    <Compile Include="Generische_Typen\Eigene_Generische_Typen.cs" />
+    <Compile Include="Generische_Typen\Generische Listen.cs" />
+    <Compile Include="Generische_Typen\Generische_Tupel.cs" />
+    <Compile Include="Generische_Typen\Generische_Typconstraints.cs" />
+    <Compile Include="Syntax\Eigenschaften.cs" />
+    <Compile Include="Syntax\Erweiterungsmethoden.cs" />
+    <Compile Include="Syntax\Felder.cs" />
+    <Compile Include="Syntax\IndizierteEigenschaft.cs" />
+    <Compile Include="Syntax\Klassen.cs" />
+    <Compile Include="Syntax\Konstruktoren.cs" />
+    <Compile Include="Syntax\Kontrollstrukturen.cs" />
+    <Compile Include="Syntax\Listen.cs" />
+    <Compile Include="Syntax\Methoden.cs" />
+    <Compile Include="Syntax\Musterklasse.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Syntax\StatischeKlassen.cs" />
+    <Compile Include="Syntax\TypeInference.cs" />
+    <Compile Include="Syntax\Unicode.cs" />
+    <Compile Include="Syntax\Variablen.cs" />
+    <Compile Include="Syntax\Vergleiche.cs" />
+    <Compile Include="Type Casts\1_Implizit.cs" />
+    <Compile Include="Type Casts\2_Explizit.cs" />
+    <Compile Include="Type Casts\3_Explizite_Casts_Mit_As.cs" />
+    <Compile Include="Verbungen\1_Einstieg.cs" />
+    <Compile Include="Verbungen\2_Daten_erben.cs" />
+    <Compile Include="Verbungen\3_Operation_erben.cs" />
+    <Compile Include="Verbungen\4_Operation_erben_und_ändern.cs" />
+    <Compile Include="Verbungen\5_Vererbung_nicht_zulassen.cs" />
+    <Compile Include="Verbungen\6_Vererbung_erzwingen.cs" />
+    <Compile Include="Verbungen\8_Abstrakte_Vererbung.cs" />
+    <Compile Include="Verbungen\9_Verhalten_ersetzen.cs" />
+    <Compile Include="Verbungen\7_Basisklassen.cs" />
+    <Compile Include="Verbungen\10_Vererbung_und_TypeCasts.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
