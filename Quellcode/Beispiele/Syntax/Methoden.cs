@@ -17,10 +17,21 @@ namespace DHBW.EinstiegDotNet.Beispiele.Syntax
             // ...
         }
 
+      
         public void Methode_mit_RückgabeParameter(out int Wert)
         {
             Wert = 0;
         }
+
+        public void test()
+        {
+            var x = 12;
+            Methode_mit_ReferenzParameter(ref x);
+
+            var y = 13;
+            Methode_mit_RückgabeParameter(out y);
+        }
+
 
         public void Methode_mit_ReferenzParameter(ref int Alter)
         {
@@ -29,9 +40,20 @@ namespace DHBW.EinstiegDotNet.Beispiele.Syntax
 
         public int Funktion()
         {
-            return 20;
+            if (DateTime.Now.DayOfWeek==DayOfWeek.Monday)
+            {
+                return 20;
+                
+            }
+
+            return 0;
         }
 
+        public void Test_mit_optionalen_Werten()
+        {
+            Methode_mit_optionalem_Parameter(1);
+            Methode_mit_optionalem_Parameter();
+        }
         public void Methode_mit_optionalem_Parameter(int Alter = 20)
         {
             

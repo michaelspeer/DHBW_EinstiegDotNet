@@ -5,3 +5,8 @@ d:\Users\genms.USERS\Desktop\Vorlesung DHBW\2015\DHBWEinstiegDotNet\BeispieleVor
 d:\Users\genms.USERS\Desktop\Vorlesung DHBW\2015\DHBWEinstiegDotNet\BeispieleVorlesung\obj\Debug\Beispiele.pdb
 d:\Users\genms.USERS\Desktop\Vorlesung DHBW\2015\DHBWEinstiegDotNet\Beispiele\obj\Debug\Beispiele.exe
 d:\Users\genms.USERS\Desktop\Vorlesung DHBW\2015\DHBWEinstiegDotNet\Beispiele\obj\Debug\Beispiele.pdb
+d:\Users\genms.USERS\Documents\GitHub\DHBW_EinstiegDotNet\Quellcode\Beispiele\obj\Debug\Beispiele.exe
+d:\Users\genms.USERS\Documents\GitHub\DHBW_EinstiegDotNet\Quellcode\Beispiele\obj\Debug\Beispiele.pdb
+d:\Users\genms.USERS\Documents\GitHub\DHBW_EinstiegDotNet\Quellcode\Beispiele\bin\Debug\Beispiele.exe
+d:\Users\genms.USERS\Documents\GitHub\DHBW_EinstiegDotNet\Quellcode\Beispiele\bin\Debug\Beispiele.pdb
+d:\Users\genms.USERS\Documents\GitHub\DHBW_EinstiegDotNet\Quellcode\Beispiele\obj\Debug\Beispiele.csprojResolveAssemblyReference.cache

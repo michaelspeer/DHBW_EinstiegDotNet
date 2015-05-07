@@ -80,6 +80,7 @@
     <Compile Include="Generische_Typen\Generische Listen.cs" />
     <Compile Include="Generische_Typen\Generische_Tupel.cs" />
     <Compile Include="Generische_Typen\Generische_Typconstraints.cs" />
+    <Compile Include="Syntax\Ausdrücke.cs" />
     <Compile Include="Syntax\Eigenschaften.cs" />
     <Compile Include="Syntax\Erweiterungsmethoden.cs" />
     <Compile Include="Syntax\Felder.cs" />
@@ -88,10 +89,12 @@
     <Compile Include="Syntax\Konstruktoren.cs" />
     <Compile Include="Syntax\Kontrollstrukturen.cs" />
     <Compile Include="Syntax\Listen.cs" />
+    <Compile Include="Syntax\LogischeOperatoren.cs" />
     <Compile Include="Syntax\Methoden.cs" />
     <Compile Include="Syntax\Musterklasse.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Syntax\Operatoren.cs" />
     <Compile Include="Syntax\StatischeKlassen.cs" />
     <Compile Include="Syntax\TypeInference.cs" />
     <Compile Include="Syntax\Unicode.cs" />

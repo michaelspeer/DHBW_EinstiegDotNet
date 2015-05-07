@@ -14,7 +14,7 @@
         }
 
         public void Kurzschluss_Vergleiche()
-        {
+        {   
             bool ergebnis = Sehr_langlaufende_Funktion() && Extrem_langlaufende_Funktion(); // nur die erste Funktion wird ausgeführt, danach steht logisch das Ergebnis FALSCH bereits fest
         }
 
