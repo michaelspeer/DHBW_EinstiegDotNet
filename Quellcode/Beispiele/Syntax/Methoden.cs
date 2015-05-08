@@ -70,8 +70,7 @@ namespace DHBW.EinstiegDotNet.Beispiele.Syntax
         public void Aufruf_einer_Methode_mit_Parameterliste()
         {
             // 1. Möglichkeit
-            var floats = new[] {1.0, 2};
-            var werte = new[] { "Wert1", "Wert2", "Wert3", "Wert4", "Wert5", "Wert6" };
+            var werte = new [] { "Wert1", "Wert2", "Wert3", "Wert4", "Wert5", "Wert6" };
             Methode_mit_Parameterliste(werte);
 
 
