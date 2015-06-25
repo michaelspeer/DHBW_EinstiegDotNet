@@ -36,7 +36,7 @@ namespace DHBW.EinstiegDotNet.Beispiele.Generische_Typen
             foreach (var adresse in adressen)
             {
                 var result = UpdateObject<Adresse>(adresse);
-
+                
                 Console.WriteLine("ID: {0}, Result: {1}",result.Value.Id,result.HasBeenUpdated);
             }
         }

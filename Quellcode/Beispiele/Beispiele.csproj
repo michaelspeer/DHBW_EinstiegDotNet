@@ -48,6 +48,9 @@
     <Compile Include="AnonymeMethoden\5_LambdaAusdrückeAlsFunktion.cs" />
     <Compile Include="AnonymeMethoden\6_AnonymeMethodenAlsParameter.cs" />
     <Compile Include="Aufruf_von_Properties.cs" />
+    <Compile Include="Beispiele\Baum.cs" />
+    <Compile Include="Beispiele\FactoryPattern.cs" />
+    <Compile Include="Beispiele\Singleton.cs" />
     <Compile Include="Delegaten\1_Beispiel.cs" />
     <Compile Include="Delegaten\2_Logging.cs" />
     <Compile Include="Delegaten\3_AnonymeDelegaten.cs" />
@@ -57,6 +60,7 @@
     <Compile Include="Delegaten\7_EventsMitAnonymenDelegaten.cs" />
     <Compile Include="Enumerationen\1_Beispiel.cs" />
     <Compile Include="Enumerationen\2_Zuweisung_zu_Zahl.cs" />
+    <Compile Include="Generische_Typen\BeispielKonstruktor.cs" />
     <Compile Include="Generische_Typen\Garage.cs" />
     <Compile Include="Linq\1_Syntax.cs" />
     <Compile Include="Linq\2_Methodenschreibweise.cs" />
@@ -71,6 +75,7 @@
     <Compile Include="Schnittstellen\4_Vielfachvererbung.cs" />
     <Compile Include="Schnittstellen\5_Implementierung.cs" />
     <Compile Include="Schnittstellen\6_Werkstatt.cs" />
+    <Compile Include="Schnittstellen\7_BeispielSchnitstelle.cs" />
     <Compile Include="Signaturen\1_Beispiel.cs" />
     <Compile Include="Signaturen\2_Überladungen.cs" />
     <Compile Include="Signaturen\3_Überladene_Methoden.cs" />
@@ -87,6 +92,7 @@
     <Compile Include="Syntax\IndizierteEigenschaft.cs" />
     <Compile Include="Syntax\Klassen.cs" />
     <Compile Include="Syntax\Konstruktoren.cs" />
+    <Compile Include="Syntax\Konstruktoren2.cs" />
     <Compile Include="Syntax\Kontrollstrukturen.cs" />
     <Compile Include="Syntax\Listen.cs" />
     <Compile Include="Syntax\LogischeOperatoren.cs" />

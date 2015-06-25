@@ -1,5 +1,12 @@
 ﻿namespace DHBW.EinstiegDotNet.Beispiele.Syntax
 {
+    public class CtorTest
+    {
+        public void Test()
+        {
+            var k = new Konstruktoren();
+        }
+    }
     public class Konstruktoren
     {
         // "Default"-Konstruktor

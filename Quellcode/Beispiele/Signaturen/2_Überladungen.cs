@@ -18,7 +18,7 @@
 
         //public int EineMethode(string wert) // geht nicht, da Signatur bereits vorhanden
         //{
-            
+
         //}
 
         //public void EineMethode(string andererWert) // geht nicht, da Signatur bereits vorhanden

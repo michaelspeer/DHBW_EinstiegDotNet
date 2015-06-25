@@ -2,10 +2,23 @@
 {
     public class Eigenschaften
     {
+
+        public void Test()
+        {
+
+            Eigenschaft_mit_Backingfield = "123";
+            var wert = Eigenschaft_mit_Backingfield;
+
+            this[12] = "12";
+        }
+
+
         private string _wert;
 
 
-        public string AutoProperty { get; set; }
+        public string AutoProperty { get;  set; }
+        public string AutoProperty2 { get; private set; }
+
         public string Nur_lesbare_AutoProperty { get; private set; }
 
         public string Eigenschaft_mit_Backingfield
@@ -20,7 +33,7 @@
             private set { _wert = value; }
         }
 
-        // Indeizierte Eigenschaft
+        // Indizierte Eigenschaft
         public string this[int Index]
         {
             get

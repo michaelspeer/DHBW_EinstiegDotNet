@@ -2,7 +2,7 @@
 
 namespace DHBW.EinstiegDotNet.Beispiele.Syntax
 {
-    public class StatischeKlassen
+    public  class StatischeKlassen
     {
         private static DateTime _datum;
 
@@ -16,6 +16,11 @@ namespace DHBW.EinstiegDotNet.Beispiele.Syntax
         {
 
         }
+
+        //public int Irgendwas() // funktioniert nicht
+        //{
+        //    return 0;
+        //}
     }
 
 
@@ -24,6 +29,8 @@ namespace DHBW.EinstiegDotNet.Beispiele.Syntax
         public void Test()
         {
             StatischeKlassen.Something();
+
+            
         }
     }
 }

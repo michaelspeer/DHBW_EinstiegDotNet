@@ -24,8 +24,10 @@ namespace DHBW.EinstiegDotNet.Beispiele.Generische_Typen.Generische_Listen
             adresse3.Hausnummer = 12;
             adresse3.Strasse = "";
             adressen.Add(adresse3);
-
+          
             adressen[0].Hausnummer = 13;
+
+            adressen.Sort(new VergleichFürAdressen());
         }
 
         public void Nicht_typisierte_Liste()
@@ -42,4 +44,13 @@ namespace DHBW.EinstiegDotNet.Beispiele.Generische_Typen.Generische_Listen
             var dritteAdresse = (Adresse)drittesObjekt;
         }
     }
+
+    public class VergleichFürAdressen : IComparer<Adresse>
+    {
+        public int Compare(Adresse x, Adresse y)
+        {
+            return 0; // Code weggelassen
+        }
+    }
+
 }

@@ -3,6 +3,11 @@
     public abstract class FamilienMitglied
     {
         public abstract void Aufräumen();
+
+        public void AmAbend()
+        {
+            Aufräumen();
+        }
     }
 
     public abstract class Erwachsener : FamilienMitglied

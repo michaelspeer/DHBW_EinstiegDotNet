@@ -42,7 +42,7 @@ namespace DHBW.EinstiegDotNet.Beispiele.Syntax
             int ergebnis = 12 + 5 == 15 ? 1 : 0; // liefert 1 bei Wahr, sonst 0
         }
 
-        public void Vergleich_mit_ternärem_NullOperator()
+        public void Vergleich_mit_binärem_NullOperator()
         {
             object eineReferenz = null;
 
@@ -85,18 +85,33 @@ namespace DHBW.EinstiegDotNet.Beispiele.Syntax
 
         public void Schleife_mit_For()
         {
+            // ReSharper disable once EmptyForStatement
             for (int index = 0; index < 100; index++)
             {
+
                 // Schleife von 0 bis 99
+                //continue;
+                //break;
+
             }
         }
 
         public void Schleife_mit_Foreach()
         {
-            var wochentage = new List<string> { "Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag", "Sonntag" };
+            var wochentage = new List<string>
+            {
+                "Montag", 
+                "Dienstag",
+                "Mittwoch", 
+                "Donnerstag", 
+                "Freitag", 
+                "Samstag", 
+                "Sonntag"
+            };
 
             foreach (var wochentag in wochentage)
             {
+               
 
             }
         }
@@ -113,6 +128,7 @@ namespace DHBW.EinstiegDotNet.Beispiele.Syntax
         {
             do
             {
+                
                 // Ausführung VOR Vergleich
             } while (true);
         }
